@@ -17,7 +17,7 @@ Cybersecurity training platform. Offers immersive cyber security training throug
 
 
 #### Technologies: <br/>
-<img height="15" width="15" src="https://cdn.simpleicons.org/amazonaws"/> AWS (Lambda, StepFunctions, DynamoDB, SQS, S3, EventBridge, etc.) <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/amazon"/> AWS (Lambda, StepFunctions, DynamoDB, SQS, S3, EventBridge, etc.) <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/postgresql"/> PostgreSQL <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/elasticsearch"/> Elasticsearch <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/celery"/> Celery <br/>
@@ -29,6 +29,7 @@ Cybersecurity training platform. Offers immersive cyber security training throug
 OOP, REST, Design Patterns, TDD, SOLID, DRY
 
 #### Basic Knowledge: 
+<img height="15" width="15" src="https://cdn.simpleicons.org/flask"/> Flask <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/javascript"/> JavaScript <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/html5"/> HTML <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/css3"/> CSS <br/>
