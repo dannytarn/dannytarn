@@ -7,7 +7,7 @@
 
 
 #### Recent Projects:
-#### 📎: Project: 
+#### 📎 Project: 
 Cybersecurity training platform. Offers immersive cyber security training through an ‘escape room’ experience. The app was designed to engage users in the learning process with an existing computer game. The platform offers multiple storylines, sets of training videos, questions, and puzzles. Software has 1-3 minute nano- and micro-learning modules that are easy to consume and memorable for any time, anywhere training. With weaknesses and strengths accurately measured, and potential gaps predicted and isolated, innovative individual and team training programs create proven, lasting change in user behavior.
 
 
