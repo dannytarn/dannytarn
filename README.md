@@ -27,7 +27,7 @@ Cybersecurity training platform. Offers immersive cyber security training throug
 
 
 #### Code quality: <br/>
-OOP, REST, Design Patterns, TDD, SOLID, DRY
+OOP, CI/CD, Design Patterns, TDD, SOLID, DRY
 
 #### Basic Knowledge: 
 <img height="15" width="15" src="https://cdn.simpleicons.org/flask"/> Flask <br/>
