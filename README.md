@@ -1,5 +1,5 @@
 ![image](https://github.com/dannytarn/dannytarn/blob/ae6d8d9d32cae08cb3d35a75d763a9b57e9c6c65/Banner-Github-Denys.jpg)
-<a href="https://www.upwork.com/ag/wesoftyou/"><img height="15" width="15" src="https://cdn.simpleicons.org/upwork"/> Agency UpWork profile </a><br/>
+<a href="[https://www.upwork.com/ag/wesoftyou/](https://www.upwork.com/freelancers/~0192c8b389bcf634b7)"><img height="15" width="15" src="https://cdn.simpleicons.org/upwork"/> UpWork profile </a><br/>
 ### A highly motivated and experienced Python programmer with 4 years of experience.
 :black_circle: Understands that well-designed software can have a significant impact on the success of a product<br/>
 :black_circle: Committed to creating systems that are scalable, maintainable, and easy to evolve over time. <br/>
