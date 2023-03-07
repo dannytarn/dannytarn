@@ -23,6 +23,7 @@ Cybersecurity training platform. Offers immersive cyber security training throug
 <img height="15" width="15" src="https://cdn.simpleicons.org/celery"/> Celery <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/rabbitmq"/> RabbitMQ <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/nginx"/> Nginx <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/digitalocean"/> Digital Ocean <br/>
 
 
 #### Code quality: <br/>
@@ -34,6 +35,7 @@ OOP, REST, Design Patterns, TDD, SOLID, DRY
 <img height="15" width="15" src="https://cdn.simpleicons.org/html5"/> HTML <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/css3"/> CSS <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/docker"/> Docker <br/>
+
 
 #### English: 
 :us::uk: Upper-Intermediate
