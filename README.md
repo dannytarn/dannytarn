@@ -2,7 +2,7 @@
 
 Languages and Frameworks:<br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/python"/> Python <br/>
-<img height="15" width="15" src="https://cdn.simpleicons.org/django"/> Django <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/django"/> Django / Django Rest Framework <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/serverless"/> Serverless <br/>
 <br/>
 
