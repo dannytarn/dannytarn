@@ -14,7 +14,7 @@ Cybersecurity training platform. Offers immersive cyber security training throug
 <img height="15" width="15" src="https://cdn.simpleicons.org/python"/> Python <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/django"/> Django / Django Rest Framework <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/serverless"/> Serverless <br/>
-<br/>
+
 
 #### Technologies: <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/amazonaws"/> AWS (Lambda, StepFunctions, DynamoDB, SQS, S3, EventBridge, etc.) <br/>
@@ -35,5 +35,5 @@ OOP, REST, Design Patterns, TDD, SOLID, DRY
 <img height="15" width="15" src="https://cdn.simpleicons.org/docker"/> Docker <br/>
 
 #### English: 
-:us: :uk: Upper-Intermediate
+:us::uk: Upper-Intermediate
 
