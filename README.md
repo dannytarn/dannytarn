@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/70688819/223405444-b8ff35a1-0954-4de0-afa8-9123b3e81ae3.png)
+![image](https://github.com/dannytarn/dannytarn/blob/ae6d8d9d32cae08cb3d35a75d763a9b57e9c6c65/Banner-Github-Denys.jpg)
 
 ### A highly motivated and experienced Python programmer with 4 years of experience.
 
