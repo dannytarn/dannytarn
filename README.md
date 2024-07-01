@@ -1,5 +1,5 @@
 ![image](https://github.com/dannytarn/dannytarn/blob/ae6d8d9d32cae08cb3d35a75d763a9b57e9c6c65/Banner-Github-Denys.jpg)
-### A highly motivated and experienced Python programmer with 4 years of experience.
+### A highly motivated and experienced Python programmer with 5 years of experience.
 :green_circle: Understands that well-designed software can have a significant impact on the success of a product<br/>
 :green_circle: Committed to creating systems that are scalable, maintainable, and easy to evolve over time. <br/>
 :green_circle: Has collaborative mindset, able to translate business requirements into technical solutions. <br/>
@@ -17,7 +17,7 @@ Cybersecurity training platform. Offers immersive cyber security training throug
 
 
 #### Technologies: <br/>
-<img height="15" width="15" src="https://cdn.simpleicons.org/amazon"/> AWS (Lambda, StepFunctions, DynamoDB, SQS, S3, EventBridge, etc.) <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/amazon"/> AWS <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/postgresql"/> PostgreSQL <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/elasticsearch"/> Elasticsearch <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/celery"/> Celery <br/>
